@@ -1,0 +1,22 @@
+<ion-view view-title="Login">
+	<ion-content>
+	  <div class="list">
+	    <label class="item item-input item-floating-label">
+	      <span class="input-label">Account Token</span>
+	      <input type="text" placeholder="Account Token" ng-model="user.username">
+	    </label>
+	    <label class="item item-input item-floating-label">
+	      <span class="input-label">Secret Key</span>
+	      <input type="password" placeholder="Secret Key" ng-model="user.password">
+	    </label>
+	  </div>
+	  <div class="padding">
+	    <button class="button button-block button-positive" ng-click="signIn(user)">
+	      Sign-In
+	    </button>
+	    <p class="text-center">
+	      <a href="#">Where can I find my API Keys?</a>
+	    </p>
+	  </div>
+	</ion-content>
+</ion-view>
