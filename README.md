@@ -3,9 +3,13 @@ A simple ChartMogul Metrics App using AngularJS, Ionic / Cordova
 
 --------------
 
-This is a simple IOS / Android app that ChartMogul customers can use to view their SaaS metrics on their mobile device.
+A simple IOS / Android app that ChartMogul customers can use to view their SaaS metrics on their mobile device.
 
-This example app is under development and has not yet been submitted to the App Store.
+This example app is under development and is not available in the App Store.
+
+### Screenshots
+
+<img src="https://raw.githubusercontent.com/bilbof/charts/86c17363767f923d13b33b96085b7651599cb9fa/login_screen.png" alt="Login"  width="275" height="500"/> <img src="https://github.com/bilbof/charts/blob/86c17363767f923d13b33b96085b7651599cb9fa/app.png?raw=true" alt="App" width="275" height="500"/>
 
 #### How it works
 
